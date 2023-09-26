@@ -31,7 +31,7 @@ We provide interface templates populated by the output of mPLUG-Owl in "***LLM_o
 * Modify the path in lines 14-16 of interface.py
 * Run the command below
 ```bash
-python finetune.py 
+python interface.py 
 ```
 
 ## 5. Citation

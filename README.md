@@ -16,7 +16,7 @@ If you want to:
 * Retrain
 * Use another scale of llama
 * Use llama-2
-* Use other data
+* Use additional data
 
 see here.
 
